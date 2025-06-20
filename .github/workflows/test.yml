@@ -26,5 +26,5 @@ jobs:
 
       - name: Run Selection Sort Tests
         run: |
-          cd ../selection_sort
+          cd selection_sort
           pytest
